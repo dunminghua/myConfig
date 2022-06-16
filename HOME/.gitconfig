@@ -1,0 +1,16 @@
+[safe]
+	directory = /opt/homebrew/Library/Taps/homebrew/homebrew-core
+	directory = /opt/homebrew/Library/Taps/homebrew/homebrew-cask
+
+[user]
+    email = dunminghua@163.com
+    name = dunminghua
+[alias]
+    co = checkout
+    co = commit
+    br = brance
+    st = status
+
+
+[core]
+	excludesFile = /Users/huadunming/.gitignore
